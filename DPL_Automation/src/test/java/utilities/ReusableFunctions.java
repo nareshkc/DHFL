@@ -38,6 +38,7 @@ public class ReusableFunctions extends DriverClass{
 	public static int Scenario;
 	public static int lineNumber;
 	public int countno;
+	//public static int lcountno;
 	public static String testcaseName;
 	Actions a1;
 	//Function for Print the steps in allure report
@@ -97,6 +98,7 @@ public class ReusableFunctions extends DriverClass{
 								lnumbers = lnumber.split(",");
 								for(int ldata=countno;ldata<=lnumbers.length;ldata++) {
 									lineNumber=Integer.parseInt(lnumbers[ldata].toString());
+									//lcountno=countno+1;
 									if(ldata==lnumbers.length-1) {
 										System.out.println("");
 										ldata=lnumbers.length;

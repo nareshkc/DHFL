@@ -7,6 +7,11 @@
     </classes>
   </test> 
  
+  <test thread-count="5" name="TestLATOIL">
+    <classes>
+      <class name="Cosmos_Testcases.LACosmosToIL"/>
+    </classes>
+  </test> 
  
 <!--  <test thread-count="5" name="test"> -->
 <!--     <classes> -->

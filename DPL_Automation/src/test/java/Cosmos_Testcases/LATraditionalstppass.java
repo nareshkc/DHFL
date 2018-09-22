@@ -61,8 +61,6 @@ public class LATraditionalstppass extends ReusableFunctions{
 		nbsBranchInward = PageFactory.initElements(driver, NBSBranchInward.class);
 		dispatchMode=PageFactory.initElements(driver, DispatchMode.class);
 		applicationTracker = PageFactory.initElements(driver, ApplicationTracker.class);
-		
-		loginPage.lcountno=0;
 	
 
 	}
@@ -71,6 +69,7 @@ public class LATraditionalstppass extends ReusableFunctions{
 	{
 		testcaseName="LA Traditional Case (STP Pass)";
 		launching("chrome");
+		LoginPage.lcountno=0;
 
 	}
 	

@@ -64,7 +64,6 @@ public void launching(String browserName) {
 	applicationTracker = PageFactory.initElements(driver, ApplicationTracker.class);
 	callVerfication = PageFactory.initElements(driver, CallVerfication.class);
 	uw=PageFactory.initElements(driver, UnderWriting.class);
-	loginPage.lcountno=0;
 
 }
 @BeforeTest
@@ -72,6 +71,7 @@ public void beforeTest() throws Exception
 {
 	testcaseName="LA Cosmos TO IL";
 	launching("chrome");
+	LoginPage.lcountno=0;
 
 }
 
@@ -229,7 +229,7 @@ public void UWBucket()throws Exception
 		uw.underWriting(1, randonProNumber);
 }
 
-@Stories("LA Cosmos to IL")
+@Stories("LA Cosmos TO IL")
 @Title("Application Tracker bucket ")
 @Description("Search with application number and wait for realization ")
 @Test(priority=11 , enabled = true,dependsOnMethods = { "UWBucket" })
@@ -243,7 +243,7 @@ public void applicationTracker() throws Exception {
 	
 }
 
-@Stories("LA Cosmos to IL")
+@Stories("LA Cosmos TO IL")
 @Title("Proposal enquiry and Receipt details bucket")
 @Description("Search with application number and get the receipt details with receipt No. for realization")
 @Test(priority=12,enabled=true,dependsOnMethods = { "applicationTracker" })

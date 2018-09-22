@@ -1,0 +1,1965 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1537635630175" stop="1537636020488" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : TestLASTPPass</name>
+    <title>Suite : TestLASTPPass</title>
+    <test-cases>
+        <test-case start="1537635639643" stop="1537635689415" status="passed">
+            <name>selectNBSBranchInward</name>
+            <title>Select Branch Inword bucket and fill the data</title>
+            <description type="text">Select BranchInward and fill the data then click on submit </description>
+            <steps>
+                <step start="1537635630409" stop="1537635630411" status="passed">
+                    <name>logStep[User Selected Chrome Browser to execute]</name>
+                    <title>User Selected Chrome Browser to execute</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635636841" stop="1537635636841" status="passed">
+                    <name>logStep[chrome  Browser launched]</name>
+                    <title>chrome  Browser launched</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635639342" stop="1537635639342" status="passed">
+                    <name>logStep[Url entered : http://10.50.46.80/home/dpli/insurance/DPLIIndex3.htm#/NBbranchInward]</name>
+                    <title>Url entered : http://10.50.46.80/home/dpli/insurance/DPLIIndex3.htm#/NBbranchInward</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635641033" stop="1537635641033" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635643298" stop="1537635643298" status="passed">
+                    <name>logStep[User entered Username]</name>
+                    <title>User entered Username</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635643387" stop="1537635643387" status="passed">
+                    <name>logStep[User entered Username]</name>
+                    <title>User entered Username</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635643388" stop="1537635643388" status="passed">
+                    <name>logStep[Taking screenshot : Login Page]</name>
+                    <title>Taking screenshot : Login Page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635644587" stop="1537635644587" status="passed">
+                    <name>logStep[User entered UserName / Password ]</name>
+                    <title>User entered UserName / Password </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635644718" stop="1537635644718" status="passed">
+                    <name>logStep[User clicked on Login button]</name>
+                    <title>User clicked on Login button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635653129" stop="1537635653129" status="passed">
+                    <name>logStep[Clicked on Branch Inward from NBS ]</name>
+                    <title>Clicked on Branch Inward from NBS </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635653297" stop="1537635653297" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635653299" stop="1537635653299" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635653457" stop="1537635653457" status="passed">
+                    <name>logStep[Random Proposal number generated: MNB1705529]</name>
+                    <title>Random Proposal number generated: MNB1705529</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635654943" stop="1537635654943" status="passed">
+                    <name>logStep[Selected Agent ]</name>
+                    <title>Selected Agent </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635656211" stop="1537635656211" status="passed">
+                    <name>logStep[Selected option is : Agent Code]</name>
+                    <title>Selected option is : Agent Code</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635656335" stop="1537635656335" status="passed">
+                    <name>logStep[Enter data :70031411]</name>
+                    <title>Enter data :70031411</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635656426" stop="1537635656426" status="passed">
+                    <name>logStep[Clicked on search button]</name>
+                    <title>Clicked on search button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635659165" stop="1537635659165" status="passed">
+                    <name>logStep[Selected option is : Ms.]</name>
+                    <title>Selected option is : Ms.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635659321" stop="1537635659321" status="passed">
+                    <name>logStep[Enter data :Bhavishya]</name>
+                    <title>Enter data :Bhavishya</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635659688" stop="1537635659688" status="passed">
+                    <name>logStep[Selected option is : Telangana]</name>
+                    <title>Selected option is : Telangana</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635661808" stop="1537635661808" status="passed">
+                    <name>logStep[Enter data :9290851186]</name>
+                    <title>Enter data :9290851186</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635662157" stop="1537635662157" status="passed">
+                    <name>logStep[Selected option is : Adhaar card]</name>
+                    <title>Selected option is : Adhaar card</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635667428" stop="1537635667428" status="passed">
+                    <name>logStep[Selected option is : Non Smoker]</name>
+                    <title>Selected option is : Non Smoker</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635667652" stop="1537635667653" status="passed">
+                    <name>logStep[Selected option is : Female]</name>
+                    <title>Selected option is : Female</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635668045" stop="1537635668045" status="passed">
+                    <name>logStep[Selected option is : Smart Assure]</name>
+                    <title>Selected option is : Smart Assure</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635668440" stop="1537635668440" status="passed">
+                    <name>logStep[Selected option is : 10]</name>
+                    <title>Selected option is : 10</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635668720" stop="1537635668720" status="passed">
+                    <name>logStep[Selected option is : 5]</name>
+                    <title>Selected option is : 5</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635668958" stop="1537635668958" status="passed">
+                    <name>logStep[Selected option is : Annually]</name>
+                    <title>Selected option is : Annually</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635669147" stop="1537635669147" status="passed">
+                    <name>logStep[Selected option is : Sum Assured]</name>
+                    <title>Selected option is : Sum Assured</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635669255" stop="1537635669255" status="passed">
+                    <name>logStep[Enter data :100,000]</name>
+                    <title>Enter data :100,000</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635673137" stop="1537635673137" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635673140" stop="1537635673140" status="passed">
+                    <name>logStep[Clicked on GetQuote button]</name>
+                    <title>Clicked on GetQuote button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635673142" stop="1537635673142" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635673872" stop="1537635673872" status="passed">
+                    <name>logStep[Quote details saved successfully]</name>
+                    <title>Quote details saved successfully</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635674132" stop="1537635674132" status="passed">
+                    <name>logStep[Entered text is :18,945]</name>
+                    <title>Entered text is :18,945</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635676340" stop="1537635676340" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635676341" stop="1537635676341" status="passed">
+                    <name>logStep[Clicked on GetRequirement button]</name>
+                    <title>Clicked on GetRequirement button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635682896" stop="1537635682896" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635682897" stop="1537635682897" status="passed">
+                    <name>logStep[Clicked on InwardComplete button]</name>
+                    <title>Clicked on InwardComplete button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635682898" stop="1537635682898" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635685391" stop="1537635685391" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635688957" stop="1537635688957" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635688960" stop="1537635688960" status="passed">
+                    <name>logStep[clicked on Yes proceed button]</name>
+                    <title>clicked on Yes proceed button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635689026" stop="1537635689026" status="passed">
+                    <name>logStep[message : -- Inward for Proposal No. MNB1705529 is in processing, Please check after some time]</name>
+                    <title>message : -- Inward for Proposal No. MNB1705529 is in processing, Please check after some time</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635689028" stop="1537635689028" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635689410" stop="1537635689410" status="passed">
+                    <name>logStep[Clicked on OK button]</name>
+                    <title>Clicked on OK button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="Screenshot" source="e1ff1642-12f9-4f9e-9297-b4438563277e-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="80998c1c-f233-45ca-85d6-8c7f1a332e1b-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="7e2d79e0-a9bf-4038-9f05-b17f19c1d578-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="e5fc5bdc-f2cb-4c89-a459-c415c18e4fb6-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="d1b66023-3d2e-4c89-8ccd-a32df9fd3c79-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="story" value="LA Traditional Case (STP Pass)"/>
+                <label name="host" value="MONO-HYD-LAP-14"/>
+                <label name="thread" value="8972@MONO-HYD-LAP-14.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1537635689429" stop="1537635723068" status="passed">
+            <name>submitReciept</name>
+            <title>Submit Receipt Bucket</title>
+            <description type="text">Search with application number in Receipt and fill requierd data and submit </description>
+            <steps>
+                <step start="1537635691983" stop="1537635691983" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635692279" stop="1537635692279" status="passed">
+                    <name>logStep[Clicked on inbox button for selecting : inBox]</name>
+                    <title>Clicked on inbox button for selecting : inBox</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635694423" stop="1537635694424" status="passed">
+                    <name>logStep[clicked on : Receipt]</name>
+                    <title>clicked on : Receipt</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635694425" stop="1537635694425" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635701555" stop="1537635701555" status="passed">
+                    <name>logStep[Entered text is :MNB1705529]</name>
+                    <title>Entered text is :MNB1705529</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635703791" stop="1537635703791" status="passed">
+                    <name>logStep[Clicked on Proposal numMNB1705529]</name>
+                    <title>Clicked on Proposal numMNB1705529</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635706360" stop="1537635706360" status="passed">
+                    <name>logStep[Selected Branch is : HO]</name>
+                    <title>Selected Branch is : HO</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635708758" stop="1537635708758" status="passed">
+                    <name>logStep[Selected option is : HO - SBI]</name>
+                    <title>Selected option is : HO - SBI</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635708840" stop="1537635708840" status="passed">
+                    <name>logStep[Clicked on AddInstrument button]</name>
+                    <title>Clicked on AddInstrument button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635711533" stop="1537635711533" status="passed">
+                    <name>logStep[Selected option is : Debit Cards]</name>
+                    <title>Selected option is : Debit Cards</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635711734" stop="1537635711734" status="passed">
+                    <name>logStep[Selected option is : Yes]</name>
+                    <title>Selected option is : Yes</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635714874" stop="1537635714874" status="passed">
+                    <name>logStep[Selected option is : Available]</name>
+                    <title>Selected option is : Available</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635715213" stop="1537635715213" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635715801" stop="1537635715801" status="passed">
+                    <name>logStep[clicked on create receipt button]</name>
+                    <title>clicked on create receipt button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635715882" stop="1537635715882" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635720727" stop="1537635720727" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="Screenshot" source="1e61d85b-5456-4d20-a1ae-e839c7943d6d-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="b4e2fc43-9cd8-4c44-b81f-2885e3cd917b-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="ac7c7666-6738-4b7b-a73e-b53974b1b2f0-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="739e9a97-01de-4fcb-b932-6d13a2b96226-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="story" value="LA Traditional Case (STP Pass)"/>
+                <label name="host" value="MONO-HYD-LAP-14"/>
+                <label name="thread" value="8972@MONO-HYD-LAP-14.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1537635723074" stop="1537635742543" status="passed">
+            <name>pendingBranchScrutny</name>
+            <title>Pending brach scrytny bucket</title>
+            <description type="text">Search with application number and Submit</description>
+            <steps>
+                <step start="1537635725278" stop="1537635725278" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635725582" stop="1537635725582" status="passed">
+                    <name>logStep[Clicked on inbox button for selecting : inBox]</name>
+                    <title>Clicked on inbox button for selecting : inBox</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635727706" stop="1537635727706" status="passed">
+                    <name>logStep[clicked on : pbScrutny]</name>
+                    <title>clicked on : pbScrutny</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635727707" stop="1537635727707" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635732921" stop="1537635732921" status="passed">
+                    <name>logStep[MNB1705529 proposal num is clicked ]</name>
+                    <title>MNB1705529 proposal num is clicked </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635735155" stop="1537635735155" status="passed">
+                    <name>logStep[Clicked on Submit button]</name>
+                    <title>Clicked on Submit button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635737318" stop="1537635737318" status="passed">
+                    <name>logStep[Success---Branch Scrutiny Completed]</name>
+                    <title>Success---Branch Scrutiny Completed</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635737363" stop="1537635737363" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635737697" stop="1537635737697" status="passed">
+                    <name>logStep[Scrutny submitted succssfully  Branch Scrutiny Completed]</name>
+                    <title>Scrutny submitted succssfully  Branch Scrutiny Completed</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635739747" stop="1537635739747" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635742210" stop="1537635742210" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635742212" stop="1537635742212" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="Screenshot" source="422a6f2a-22a4-49f7-acc2-72fcaea2a4a5-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="8e9d752f-2c82-47e7-bab8-74799d0d15e8-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="438a3f82-f6e3-41bb-b8a9-c4d3a537a6b2-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="56bb3382-380a-481a-a72f-21ddfb453d7e-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="0f1164ea-3415-45b6-b3aa-3c2558964a9f-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="story" value="LA Traditional Case (STP Pass)"/>
+                <label name="host" value="MONO-HYD-LAP-14"/>
+                <label name="thread" value="8972@MONO-HYD-LAP-14.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1537635742546" stop="1537635760835" status="passed">
+            <name>selectDispatch</name>
+            <title>DispatchMode bucket</title>
+            <description type="text">Search with application number and submit</description>
+            <steps>
+                <step start="1537635743634" stop="1537635743634" status="passed">
+                    <name>logStep[Mouser hovered on NBS]</name>
+                    <title>Mouser hovered on NBS</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635744069" stop="1537635744069" status="passed">
+                    <name>logStep[Dispatch Mode  is selected ]</name>
+                    <title>Dispatch Mode  is selected </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635746509" stop="1537635746509" status="passed">
+                    <name>logStep[Selected option is : New Business]</name>
+                    <title>Selected option is : New Business</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635748815" stop="1537635748815" status="passed">
+                    <name>logStep[Entered proposal num is : MNB1705529]</name>
+                    <title>Entered proposal num is : MNB1705529</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635751342" stop="1537635751342" status="passed">
+                    <name>logStep[Selected option is : Scanning]</name>
+                    <title>Selected option is : Scanning</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635751343" stop="1537635751343" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635755908" stop="1537635755908" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635755909" stop="1537635755909" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635756238" stop="1537635756238" status="passed">
+                    <name>logStep[Clicked on Submit button]</name>
+                    <title>Clicked on Submit button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635758349" stop="1537635758349" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="Screenshot" source="bc4e8c72-f556-4895-adf2-9ca954665713-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="776e55cb-a04c-46e5-8eb1-a0e710eeda12-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="336f11ed-e9ca-44fe-9954-ec3505602f93-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="story" value="LA Traditional Case (STP Pass)"/>
+                <label name="host" value="MONO-HYD-LAP-14"/>
+                <label name="thread" value="8972@MONO-HYD-LAP-14.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1537635760843" stop="1537635800223" status="passed">
+            <name>scanAndIndex</name>
+            <title>Scan and Index bucket</title>
+            <description type="text">Search with application number and upload requiered documents and submit</description>
+            <steps>
+                <step start="1537635763020" stop="1537635763020" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635763336" stop="1537635763336" status="passed">
+                    <name>logStep[Clicked on inbox button for selecting : inBox]</name>
+                    <title>Clicked on inbox button for selecting : inBox</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635765566" stop="1537635765566" status="passed">
+                    <name>logStep[BrachScanAndIndex is selected]</name>
+                    <title>BrachScanAndIndex is selected</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635772172" stop="1537635772172" status="passed">
+                    <name>logStep[Entered text is :MNB1705529]</name>
+                    <title>Entered text is :MNB1705529</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635774433" stop="1537635774433" status="passed">
+                    <name>logStep[clicked on proposal num MNB1705529]</name>
+                    <title>clicked on proposal num MNB1705529</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635788716" stop="1537635788716" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635789072" stop="1537635789072" status="passed">
+                    <name>logStep[Clicked on upload button]</name>
+                    <title>Clicked on upload button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635793249" stop="1537635793249" status="passed">
+                    <name>logStep[Successfully uploaded document]</name>
+                    <title>Successfully uploaded document</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635795412" stop="1537635795412" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635799919" stop="1537635799919" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635800221" stop="1537635800221" status="passed">
+                    <name>logStep[Scan &amp; index completed successfully]</name>
+                    <title>Scan &amp; index completed successfully</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="Screenshot" source="f376941c-a435-4fcd-9561-d6c4eb203fc5-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="3a364920-62da-4c4d-aac1-6a0f390688dd-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="7ade489e-8601-450d-a280-bc5aa2b4ca66-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="268c0911-6561-45b9-a6ea-5991b7b1a934-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="story" value="LA Traditional Case (STP Pass)"/>
+                <label name="host" value="MONO-HYD-LAP-14"/>
+                <label name="thread" value="8972@MONO-HYD-LAP-14.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1537635800227" stop="1537635818337" status="passed">
+            <name>copsInwardBucket</name>
+            <title>Cops inward bucket</title>
+            <description type="text">Search with application number and submit</description>
+            <steps>
+                <step start="1537635801282" stop="1537635801282" status="passed">
+                    <name>logStep[Mouser hovered on NBS]</name>
+                    <title>Mouser hovered on NBS</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635801700" stop="1537635801700" status="passed">
+                    <name>logStep[Cops Inward  is selected ]</name>
+                    <title>Cops Inward  is selected </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635803948" stop="1537635803948" status="passed">
+                    <name>logStep[Selected option is : New Business]</name>
+                    <title>Selected option is : New Business</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635804609" stop="1537635804609" status="passed">
+                    <name>logStep[NUMBER OF ROWS IN THIS TABLE = 63]</name>
+                    <title>NUMBER OF ROWS IN THIS TABLE = 63</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635804611" stop="1537635804611" status="passed">
+                    <name>logStep[Total number of proposals are listed : 63]</name>
+                    <title>Total number of proposals are listed : 63</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635806537" stop="1537635806538" status="passed">
+                    <name>logStep[Selected proposal numbers in the list : MNB1705529]</name>
+                    <title>Selected proposal numbers in the list : MNB1705529</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635810820" stop="1537635810820" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635810822" stop="1537635810822" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635811138" stop="1537635811138" status="passed">
+                    <name>logStep[Clicked on Submit button]</name>
+                    <title>Clicked on Submit button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635813456" stop="1537635813456" status="passed">
+                    <name>logStep[Success--COPS Inward Completed]</name>
+                    <title>Success--COPS Inward Completed</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635813458" stop="1537635813458" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635818027" stop="1537635818027" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635818030" stop="1537635818030" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="Screenshot" source="69e31dbc-aad6-43eb-9804-c72bdb10ac25-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="fed9d440-65fa-4b9d-949d-f88425a079e7-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="efb5b1f3-e462-4db4-8079-cb5a5695f448-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="story" value="LA Traditional Case (STP Pass)"/>
+                <label name="host" value="MONO-HYD-LAP-14"/>
+                <label name="thread" value="8972@MONO-HYD-LAP-14.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1537635818343" stop="1537635984166" status="passed">
+            <name>nbsDataEntry</name>
+            <title>NBS data entry bucket</title>
+            <description type="text">Search with application number and enter all the requiered data and submit</description>
+            <steps>
+                <step start="1537635820525" stop="1537635820525" status="passed">
+                    <name>logStep[Clicked on inbox Button]</name>
+                    <title>Clicked on inbox Button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635822614" stop="1537635822614" status="passed">
+                    <name>logStep[NBSDataENtry is seslected]</name>
+                    <title>NBSDataENtry is seslected</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635829515" stop="1537635829515" status="passed">
+                    <name>logStep[Entered text is :MNB1705529]</name>
+                    <title>Entered text is :MNB1705529</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635831909" stop="1537635831909" status="passed">
+                    <name>logStep[MNB1705529proposal number is clicked]</name>
+                    <title>MNB1705529proposal number is clicked</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635831910" stop="1537635831910" status="passed">
+                    <name>logStep[Taking screenshot of Search Prop Number]</name>
+                    <title>Taking screenshot of Search Prop Number</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635836888" stop="1537635836888" status="passed">
+                    <name>logStep[Clicked on  : Life Assured Details]</name>
+                    <title>Clicked on  : Life Assured Details</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635837261" stop="1537635837261" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635837261" stop="1537635837261" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635837263" stop="1537635837263" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635837719" stop="1537635837719" status="passed">
+                    <name>logStep[Selected option is : Urban]</name>
+                    <title>Selected option is : Urban</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635838066" stop="1537635838066" status="passed">
+                    <name>logStep[Selected option is : Non Defense]</name>
+                    <title>Selected option is : Non Defense</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635841123" stop="1537635841123" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635841124" stop="1537635841124" status="passed">
+                    <name>logStep[Clicked on ClientDedupe button]</name>
+                    <title>Clicked on ClientDedupe button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635841125" stop="1537635841125" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635841558" stop="1537635841558" status="passed">
+                    <name>logStep[Clicked on Close button]</name>
+                    <title>Clicked on Close button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635842001" stop="1537635842001" status="passed">
+                    <name>logStep[Enter data :Test]</name>
+                    <title>Enter data :Test</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635842287" stop="1537635842287" status="passed">
+                    <name>logStep[Selected option is : UnMarried]</name>
+                    <title>Selected option is : UnMarried</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635842544" stop="1537635842544" status="passed">
+                    <name>logStep[Selected option is : Indian]</name>
+                    <title>Selected option is : Indian</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635844922" stop="1537635844922" status="passed">
+                    <name>logStep[Selected option is : Residential Indian]</name>
+                    <title>Selected option is : Residential Indian</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635845204" stop="1537635845204" status="passed">
+                    <name>logStep[Selected option is : Adhaar card]</name>
+                    <title>Selected option is : Adhaar card</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635845283" stop="1537635845283" status="passed">
+                    <name>logStep[Enter data :9290851186]</name>
+                    <title>Enter data :9290851186</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635845284" stop="1537635845284" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635846073" stop="1537635846073" status="passed">
+                    <name>logStep[Selected option is : Permanent]</name>
+                    <title>Selected option is : Permanent</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635846643" stop="1537635846644" status="passed">
+                    <name>logStep[Enter data :Hitech City]</name>
+                    <title>Enter data :Hitech City</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635846990" stop="1537635846990" status="passed">
+                    <name>logStep[Selected option is : India]</name>
+                    <title>Selected option is : India</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635847255" stop="1537635847255" status="passed">
+                    <name>logStep[Selected option is : Valid Passport]</name>
+                    <title>Selected option is : Valid Passport</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635847844" stop="1537635847844" status="passed">
+                    <name>logStep[Enter data :CONPS4655Z]</name>
+                    <title>Enter data :CONPS4655Z</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635848229" stop="1537635848229" status="passed">
+                    <name>logStep[Selected option is : Yes]</name>
+                    <title>Selected option is : Yes</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635848547" stop="1537635848547" status="passed">
+                    <name>logStep[Selected option is : Yes]</name>
+                    <title>Selected option is : Yes</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635848878" stop="1537635848878" status="passed">
+                    <name>logStep[Selected option is : Address Details 2]</name>
+                    <title>Selected option is : Address Details 2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635848879" stop="1537635848879" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635849466" stop="1537635849466" status="passed">
+                    <name>logStep[Selected option is : Graduate]</name>
+                    <title>Selected option is : Graduate</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635849838" stop="1537635849838" status="passed">
+                    <name>logStep[Selected option is : Salaried]</name>
+                    <title>Selected option is : Salaried</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635850178" stop="1537635850178" status="passed">
+                    <name>logStep[Selected option is : B.Sc]</name>
+                    <title>Selected option is : B.Sc</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635850479" stop="1537635850479" status="passed">
+                    <name>logStep[Selected option is : Writer]</name>
+                    <title>Selected option is : Writer</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635850887" stop="1537635850887" status="passed">
+                    <name>logStep[Enter data :400000]</name>
+                    <title>Enter data :400000</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635851174" stop="1537635851174" status="passed">
+                    <name>logStep[Selected option is : Voter ID Card]</name>
+                    <title>Selected option is : Voter ID Card</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635851431" stop="1537635851431" status="passed">
+                    <name>logStep[Selected option is : Yes]</name>
+                    <title>Selected option is : Yes</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635851842" stop="1537635851842" status="passed">
+                    <name>logStep[Selected option is : Yes]</name>
+                    <title>Selected option is : Yes</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635851843" stop="1537635851843" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635852587" stop="1537635852587" status="passed">
+                    <name>logStep[Enter data :170]</name>
+                    <title>Enter data :170</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635852770" stop="1537635852770" status="passed">
+                    <name>logStep[Enter data :70]</name>
+                    <title>Enter data :70</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635855361" stop="1537635855361" status="passed">
+                    <name>logStep[Selected option is : Father]</name>
+                    <title>Selected option is : Father</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635855578" stop="1537635855578" status="passed">
+                    <name>logStep[Enter data :60]</name>
+                    <title>Enter data :60</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635855903" stop="1537635855903" status="passed">
+                    <name>logStep[Selected option is : Healthy]</name>
+                    <title>Selected option is : Healthy</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635858281" stop="1537635858281" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635863118" stop="1537635863118" status="passed">
+                    <name>logStep[Selected option is : Mother]</name>
+                    <title>Selected option is : Mother</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635863250" stop="1537635863250" status="passed">
+                    <name>logStep[Enter data :55]</name>
+                    <title>Enter data :55</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635863604" stop="1537635863604" status="passed">
+                    <name>logStep[Selected option is : Healthy]</name>
+                    <title>Selected option is : Healthy</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635865879" stop="1537635865879" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635879031" stop="1537635879031" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635879033" stop="1537635879033" status="passed">
+                    <name>logStep[Next Button is clicked]</name>
+                    <title>Next Button is clicked</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635879035" stop="1537635879035" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635879445" stop="1537635879445" status="passed">
+                    <name>logStep[Entered Bank details section]</name>
+                    <title>Entered Bank details section</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635881893" stop="1537635881893" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635881895" stop="1537635881895" status="passed">
+                    <name>logStep[Clicked on Next button]</name>
+                    <title>Clicked on Next button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635881955" stop="1537635881955" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635881957" stop="1537635881957" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635881959" stop="1537635881959" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635881961" stop="1537635881961" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635881963" stop="1537635881963" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635881964" stop="1537635881964" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635882061" stop="1537635882061" status="passed">
+                    <name>logStep[Entered to Nominee details section]</name>
+                    <title>Entered to Nominee details section</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635884414" stop="1537635884414" status="passed">
+                    <name>logStep[Selected option is : Mr.]</name>
+                    <title>Selected option is : Mr.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635884823" stop="1537635884823" status="passed">
+                    <name>logStep[Enter data :Raja]</name>
+                    <title>Enter data :Raja</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635885251" stop="1537635885251" status="passed">
+                    <name>logStep[Enter data :Shekar]</name>
+                    <title>Enter data :Shekar</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635885515" stop="1537635885515" status="passed">
+                    <name>logStep[Selected option is : Male]</name>
+                    <title>Selected option is : Male</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635889011" stop="1537635889011" status="passed">
+                    <name>logStep[Selected option is : Father]</name>
+                    <title>Selected option is : Father</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635889376" stop="1537635889376" status="passed">
+                    <name>logStep[Enter data :100]</name>
+                    <title>Enter data :100</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635889376" stop="1537635889376" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635892499" stop="1537635892499" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635892499" stop="1537635892499" status="passed">
+                    <name>logStep[Clicked on Next Button]</name>
+                    <title>Clicked on Next Button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635892564" stop="1537635892564" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635892565" stop="1537635892565" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635892567" stop="1537635892567" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635892570" stop="1537635892570" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635892572" stop="1537635892572" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635892639" stop="1537635892639" status="passed">
+                    <name>logStep[Entered product details section]</name>
+                    <title>Entered product details section</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635894992" stop="1537635894992" status="passed">
+                    <name>logStep[Selected option is : Individual]</name>
+                    <title>Selected option is : Individual</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635895264" stop="1537635895264" status="passed">
+                    <name>logStep[Selected option is : CIVIL]</name>
+                    <title>Selected option is : CIVIL</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635895657" stop="1537635895657" status="passed">
+                    <name>logStep[Selected option is : Credit Card]</name>
+                    <title>Selected option is : Credit Card</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635896043" stop="1537635896043" status="passed">
+                    <name>logStep[Selected option is : Available]</name>
+                    <title>Selected option is : Available</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635896044" stop="1537635896044" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635898972" stop="1537635898972" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635898973" stop="1537635898973" status="passed">
+                    <name>logStep[Entered Repository Details section]</name>
+                    <title>Entered Repository Details section</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635903480" stop="1537635903480" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635903480" stop="1537635903480" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635903904" stop="1537635903904" status="passed">
+                    <name>logStep[Clicked on Next button]</name>
+                    <title>Clicked on Next button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635903949" stop="1537635903949" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635903950" stop="1537635903950" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635903951" stop="1537635903951" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635903951" stop="1537635903951" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635903952" stop="1537635903952" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635903953" stop="1537635903953" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635903954" stop="1537635903954" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635906106" stop="1537635906106" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635906636" stop="1537635906636" status="passed">
+                    <name>logStep[Selected option is : Y]</name>
+                    <title>Selected option is : Y</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635906881" stop="1537635906881" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635907268" stop="1537635907268" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635907478" stop="1537635907478" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635907797" stop="1537635907797" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635908015" stop="1537635908015" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635908441" stop="1537635908441" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635908680" stop="1537635908680" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635908988" stop="1537635908988" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635909326" stop="1537635909326" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635909690" stop="1537635909690" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635909921" stop="1537635909921" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635910259" stop="1537635910259" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635910489" stop="1537635910489" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635910810" stop="1537635910810" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635911033" stop="1537635911033" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635911355" stop="1537635911355" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635911644" stop="1537635911644" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635911939" stop="1537635911939" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635912256" stop="1537635912256" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635912580" stop="1537635912580" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635912904" stop="1537635912904" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635913130" stop="1537635913130" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635913450" stop="1537635913450" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635913687" stop="1537635913687" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635914006" stop="1537635914006" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635914310" stop="1537635914310" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635914631" stop="1537635914631" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635914891" stop="1537635914891" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635915239" stop="1537635915239" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635915456" stop="1537635915456" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635915768" stop="1537635915768" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635916051" stop="1537635916051" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635916365" stop="1537635916365" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635916610" stop="1537635916610" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635916930" stop="1537635916930" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635916953" stop="1537635916953" status="passed">
+                    <name>logStep[qNo is : 36]</name>
+                    <title>qNo is : 36</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635919590" stop="1537635919590" status="passed">
+                    <name>logStep[Enter data :Bhavishya]</name>
+                    <title>Enter data :Bhavishya</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635919590" stop="1537635919590" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635920306" stop="1537635920306" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635920523" stop="1537635920523" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635920837" stop="1537635920837" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635921056" stop="1537635921056" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635921370" stop="1537635921370" status="passed">
+                    <name>logStep[Selected option is : Y]</name>
+                    <title>Selected option is : Y</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635921635" stop="1537635921635" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635922004" stop="1537635922004" status="passed">
+                    <name>logStep[Selected option is : N]</name>
+                    <title>Selected option is : N</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635922005" stop="1537635922006" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635927448" stop="1537635927448" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635929690" stop="1537635929691" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635934479" stop="1537635934479" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635937129" stop="1537635937129" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635939482" stop="1537635939482" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635939482" stop="1537635939482" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635945184" stop="1537635945184" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635947299" stop="1537635947299" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635949850" stop="1537635949850" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635952310" stop="1537635952310" status="passed">
+                    <name>logStep[Clicked on  : Product Details]</name>
+                    <title>Clicked on  : Product Details</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635954703" stop="1537635954703" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635954704" stop="1537635954704" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635970246" stop="1537635970246" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635972340" stop="1537635972340" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635974922" stop="1537635974922" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635979012" stop="1537635979012" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537635983373" stop="1537635983373" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="Screenshot" source="b3552dfe-bf6d-4a29-8aa6-03ce546b4e32-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="4d8acaea-4496-4845-a736-5da03b5468d3-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="07c0804b-7e4b-4888-a42e-da886a1ff53c-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="b17cb05d-e31b-462c-a102-e483d888e723-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="f2eda671-4dd9-4059-8c5a-b41c38ce7724-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="4d35c1db-3f71-4b0d-8e47-593dbfe58bf6-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="b1b2251a-5d26-4a38-a97d-f224f8bcceee-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="0d86ee88-93a7-45ac-81e5-0392ad261985-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="be7160e2-a7bf-428b-acfd-061c914717b2-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="d7a0a17b-7ec8-4f5b-a7dc-bb2edcb4911c-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="181ca789-104c-4eb5-92d3-257934b3d6cf-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="2d9495e6-ff33-4d60-92b5-50635b13e788-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="7db572f6-5b5c-4e6e-9712-a9ddfca5a0bd-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="af34184e-29c1-4e12-a861-7e33109ea86e-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="9b6ef4af-3722-46e8-af58-7c05cd843808-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="b84d5aa9-5e27-43f3-89a3-65d41595f181-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="story" value="LA Traditional Case (STP Pass)"/>
+                <label name="host" value="MONO-HYD-LAP-14"/>
+                <label name="thread" value="8972@MONO-HYD-LAP-14.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1537635984185" stop="1537636019561" status="broken">
+            <name>copsQc</name>
+            <title>CopsQC bucket</title>
+            <description type="text">Search with application number and Verify all the NBS data entered correctly </description>
+            <failure>
+                <message>NullPointerException: null</message>
+                <stack-trace>java.lang.NullPointerException
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy16.isDisplayed(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:315)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$100(ExpectedConditions.java:44)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:301)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:298)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:248)
+	at utilities.ReusableFunctions.waitForVisible(ReusableFunctions.java:214)
+	at pageObjectClasses.CopsQC.clickondatatEntry(CopsQC.java:169)
+	at pageObjectClasses.CopsQC.enterlifeAsurdDetails(CopsQC.java:305)
+	at Cosmos_Testcases.LATraditionalstppass.copsQc(LATraditionalstppass.java:192)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</stack-trace>
+            </failure>
+            <steps>
+                <step start="1537635984187" stop="1537635984187" status="passed">
+                    <name>logStep[User Selected Chrome Browser to execute]</name>
+                    <title>User Selected Chrome Browser to execute</title>
+                </step>
+                <step start="1537635986714" stop="1537635986714" status="passed">
+                    <name>logStep[chrome  Browser launched]</name>
+                    <title>chrome  Browser launched</title>
+                </step>
+                <step start="1537635989927" stop="1537635989927" status="passed">
+                    <name>logStep[Url entered : http://10.50.46.80/home/dpli/insurance/DPLIIndex3.htm#/NBbranchInward]</name>
+                    <title>Url entered : http://10.50.46.80/home/dpli/insurance/DPLIIndex3.htm#/NBbranchInward</title>
+                </step>
+                <step start="1537635989993" stop="1537635989993" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                </step>
+                <step start="1537635992134" stop="1537635992134" status="passed">
+                    <name>logStep[User entered Username]</name>
+                    <title>User entered Username</title>
+                </step>
+                <step start="1537635992219" stop="1537635992219" status="passed">
+                    <name>logStep[User entered Username]</name>
+                    <title>User entered Username</title>
+                </step>
+                <step start="1537635992219" stop="1537635992219" status="passed">
+                    <name>logStep[Taking screenshot : Login Page]</name>
+                    <title>Taking screenshot : Login Page</title>
+                </step>
+                <step start="1537635992468" stop="1537635992468" status="passed">
+                    <name>logStep[User entered UserName / Password ]</name>
+                    <title>User entered UserName / Password </title>
+                </step>
+                <step start="1537635992526" stop="1537635992526" status="passed">
+                    <name>logStep[User clicked on Login button]</name>
+                    <title>User clicked on Login button</title>
+                </step>
+                <step start="1537635994818" stop="1537635994818" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                </step>
+                <step start="1537635995304" stop="1537635995304" status="passed">
+                    <name>logStep[Clicked on inbox button for selecting : inBox]</name>
+                    <title>Clicked on inbox button for selecting : inBox</title>
+                </step>
+                <step start="1537635999682" stop="1537635999682" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                </step>
+                <step start="1537635999684" stop="1537635999684" status="passed">
+                    <name>logStep[Select copsQC bucket on Inbox]</name>
+                    <title>Select copsQC bucket on Inbox</title>
+                </step>
+                <step start="1537635999685" stop="1537635999685" status="passed">
+                    <name>logStep[Verification for proposal number : MNB1705529]</name>
+                    <title>Verification for proposal number : MNB1705529</title>
+                </step>
+                <step start="1537636007418" stop="1537636007418" status="passed">
+                    <name>logStep[Entered text is :MNB1705529]</name>
+                    <title>Entered text is :MNB1705529</title>
+                </step>
+                <step start="1537636009687" stop="1537636009687" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                </step>
+                <step start="1537636009688" stop="1537636009688" status="passed">
+                    <name>logStep[Selecting proposalnumber with search : MNB1705529]</name>
+                    <title>Selecting proposalnumber with search : MNB1705529</title>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="Screenshot" source="fbf8ccda-9f7f-4b11-ae67-76d9dc6677ba-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="99b18509-9234-4cbd-8be7-c55c1f8c71f4-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="story" value="LA Traditional Case (STP Pass)"/>
+                <label name="host" value="MONO-HYD-LAP-14"/>
+                <label name="thread" value="8972@MONO-HYD-LAP-14.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1537636019585" stop="1537636019593" status="canceled">
+            <name>applicationTracker</name>
+            <title>Application Tracker bucket </title>
+            <description type="text">Search with application number and wait for realization </description>
+            <failure>
+                <message>: Skipped due to dependency on other skipped or failed test methods</message>
+                <stack-trace>ru.yandex.qatools.allure.testng.AllureTestListener$1: Skipped due to dependency on other skipped or failed test methods
+	at ru.yandex.qatools.allure.testng.AllureTestListener.fireTestCaseCancel(AllureTestListener.java:366)
+	at ru.yandex.qatools.allure.testng.AllureTestListener.onTestSkipped(AllureTestListener.java:181)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:61)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1062)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:887)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="story" value="LA Traditional Case (STP Pass)"/>
+                <label name="host" value="MONO-HYD-LAP-14"/>
+                <label name="thread" value="8972@MONO-HYD-LAP-14.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1537636019600" stop="1537636019600" status="canceled">
+            <name>proposalEnquiry</name>
+            <title>Proposal enquiry and Receipt details bucket</title>
+            <description type="text">Search with application number and get the receipt details with receipt No. for realization</description>
+            <failure>
+                <message>: Skipped due to dependency on other skipped or failed test methods</message>
+                <stack-trace>ru.yandex.qatools.allure.testng.AllureTestListener$1: Skipped due to dependency on other skipped or failed test methods
+	at ru.yandex.qatools.allure.testng.AllureTestListener.fireTestCaseCancel(AllureTestListener.java:366)
+	at ru.yandex.qatools.allure.testng.AllureTestListener.onTestSkipped(AllureTestListener.java:181)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:61)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1062)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:887)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="story" value="LA Traditional Case (STP Pass)"/>
+                <label name="host" value="MONO-HYD-LAP-14"/>
+                <label name="thread" value="8972@MONO-HYD-LAP-14.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
