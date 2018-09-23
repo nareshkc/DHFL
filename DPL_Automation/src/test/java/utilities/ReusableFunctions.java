@@ -148,6 +148,7 @@ public class ReusableFunctions extends DriverClass{
 		}else {
 			logger.info(ele.getText()+"data shoul not be empty");
 			logStep(ele.getText()+"data shoul not be empty");
+			attachScreen(driver);
 			Assert.fail(ele.getText()+"data shoul not be empty");
 		}
 	}
