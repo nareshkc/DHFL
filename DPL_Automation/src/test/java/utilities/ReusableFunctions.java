@@ -119,8 +119,6 @@ public class ReusableFunctions extends DriverClass{
 							//ogStep("Testcase name not matched with test data");
 							if(testloop==ReadexcelFile.lastRow) {
 								Assert.fail("Testcase name not matched with test data"+ReadexcelFile.readdata[0][exloop]+"--"+sheetName);
-							}else {
-								System.out.println("");
 							}
 						}
 					}

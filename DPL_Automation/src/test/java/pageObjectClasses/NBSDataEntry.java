@@ -533,6 +533,7 @@ public class NBSDataEntry extends ReusableFunctions {
 
 	public void select_option_dataEntry(String OptionName)throws Exception
 	{
+		try {
 		Thread.sleep(2000);
 		List<WebElement> list=driver.findElements(By.xpath("//div[@class='tab-content']//div[@class='panel-group']//h4//a//span"));
 
@@ -543,6 +544,12 @@ public class NBSDataEntry extends ReusableFunctions {
 				e1.click();
 				logStep("Clicked on  : " + OptionName);
 			}
+		}
+		}catch(Exception e) {
+			logger.info("list of LA detail elemnt not found");
+			logStep("list of LA detail elemnt not found");
+			attachScreen(driver, "list of LA detail elemnt not found");
+			Assert.fail("list of LA detail elemnt not found");
 		}
 
 	}
