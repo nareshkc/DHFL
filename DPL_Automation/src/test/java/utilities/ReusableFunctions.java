@@ -88,7 +88,7 @@ public class ReusableFunctions extends DriverClass{
 		String[] lnumbers;
 		String lnumber;
 		ReadexcelFile.readExcel("Test_case");
-			outer:
+		outer:
 			for(int exloop=0;exloop<=ReadexcelFile.maxCell;exloop++) {
 				if(ReadexcelFile.readdata[0][exloop].contains(sheetName)) {
 					for(int testloop=0;testloop<=ReadexcelFile.lastRow;testloop++) {
@@ -107,7 +107,7 @@ public class ReusableFunctions extends DriverClass{
 										ldata=lnumbers.length;
 									}	
 								}
-								
+
 							}else {
 								lnumbers = lnumber.split(" ");
 								lineNumber=Integer.parseInt(lnumbers[0].toString());
@@ -124,7 +124,7 @@ public class ReusableFunctions extends DriverClass{
 					}
 
 				}else {
-					
+
 					if(exloop==ReadexcelFile.maxCell) {
 						logger.info("sheet Name not matched with test data"+ReadexcelFile.readdata[0][exloop]+"--"+sheetName);
 						logStep("Sheet Name not matched with test data"+ReadexcelFile.readdata[0][exloop]+"--"+sheetName);
@@ -140,10 +140,16 @@ public class ReusableFunctions extends DriverClass{
 	public static void enterData_Excel(WebElement ele,int lineNumber,int columnnum)throws Exception
 	{
 		String data = ReadexcelFile.readdata[lineNumber][columnnum].toString();
-		ele.sendKeys(data);
-		String value= data.toString();
-		logger.info("Enter data :" +value);
-		logStep("Enter data :" +value);
+		if(!data.equals("")) {
+			ele.sendKeys(data);
+			String value= data.toString();
+			logger.info("Enter data :" +value);
+			logStep("Enter data :" +value);
+		}else {
+			logger.info(ele.getText()+"data shoul not be empty");
+			logStep(ele.getText()+"data shoul not be empty");
+			Assert.fail(ele.getText()+"data shoul not be empty");
+		}
 	}
 
 	//Function for take the screen shot in allure report
