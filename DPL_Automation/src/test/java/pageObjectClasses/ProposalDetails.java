@@ -10,6 +10,7 @@ import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.Select;
 
+import read_Excel_Data.ReadexcelFile;
 import ru.yandex.qatools.allure.annotations.Attachment;
 import ru.yandex.qatools.allure.annotations.Step;
 import utilities.ReusableFunctions;
@@ -136,19 +137,21 @@ public class ProposalDetails extends ReusableFunctions {
 
 	public void fillInstrumentDetails() throws Exception {
 		try {
+			testCaseData("InstrumentDetails");
+			ReadexcelFile.readExcel("InstrumentDetails");
 			waitForVisible(driver,paidBy);
 			paidBy.clear();
 			paidBy.sendKeys(firstName.getText());
-			selectBydropDown(paymentMode,"Debit Cards");
-			selectBydropDown(dDiposit,"Yes");
+			selectBydropDown(paymentMode,ReadexcelFile.readdata[lineNumber][0]);
+			selectBydropDown(dDiposit,ReadexcelFile.readdata[lineNumber][1]);
 
 			String value =recieptAmount.getAttribute("value");
 			amount.clear();
 			amount.sendKeys(value);
 			Thread.sleep(2000);
-			dtxrn.sendKeys("Instrument test data");
-			selectBydropDown(panState,"Available");
-			pancard.sendKeys("CONPS4651A");
+			dtxrn.sendKeys(ReadexcelFile.readdata[lineNumber][2]);
+			selectBydropDown(panState,ReadexcelFile.readdata[lineNumber][3]);
+			pancard.sendKeys(ReadexcelFile.readdata[lineNumber][4]);
 
 			attachScreen(driver);
 			creatReceipt.click();
@@ -165,6 +168,10 @@ public class ProposalDetails extends ReusableFunctions {
 			}
 			if(message.contains("try again")) {
 				System.out.println("Need to fill more data --- "+allertMessage.getText());
+				logStep(message);
+				logger.info(message);
+				attachScreen(driver);
+				Assert.fail(message);
 			}else {
 				waitForVisible(driver,driver.findElement(By.xpath("//button[@class='confirm']")));
 				driver.findElement(By.xpath("//button[@class='confirm']")).click();
@@ -178,10 +185,12 @@ public class ProposalDetails extends ReusableFunctions {
 				}
 			}
 
-
 		}catch(Exception e) {
 			//errorMSG=driver.findElement(By.xpath("/html/body/div[8]/p"));
 			System.out.println("Data not filled properly ---  "+allertMessage.getText());
+			logStep(message);
+			logger.info(message);
+			attachScreen(driver);
 			Assert.fail(message);
 		}
 

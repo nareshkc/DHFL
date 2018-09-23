@@ -118,7 +118,7 @@ public class ReusableFunctions extends DriverClass{
 							//logger.info("Testcase name not matched with test data");
 							//ogStep("Testcase name not matched with test data");
 							if(testloop==ReadexcelFile.lastRow) {
-								Assert.fail("Testcase name not matched with test data");
+								Assert.fail("Testcase name not matched with test data"+ReadexcelFile.readdata[0][exloop]+"--"+sheetName);
 							}else {
 								System.out.println("");
 							}
@@ -126,10 +126,11 @@ public class ReusableFunctions extends DriverClass{
 					}
 
 				}else {
-					logger.info("sheet Name not matched with test data");
-					logStep("Sheet Name not matched with test data");
+					
 					if(exloop==ReadexcelFile.maxCell) {
-						Assert.fail("Sheet Name not matched with test data");
+						logger.info("sheet Name not matched with test data"+ReadexcelFile.readdata[0][exloop]+"--"+sheetName);
+						logStep("Sheet Name not matched with test data"+ReadexcelFile.readdata[0][exloop]+"--"+sheetName);
+						Assert.fail("Sheet Name not matched with test data"+ReadexcelFile.readdata[0][exloop]+"--"+sheetName);
 					}else {
 						System.out.println("");
 					}
@@ -186,6 +187,7 @@ public class ReusableFunctions extends DriverClass{
 		driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
 		driver.get("http://10.50.46.80/home/dpli/insurance/DPLIIndex3.htm#/NBbranchInward");
 		logStep("Url entered : http://10.50.46.80/home/dpli/insurance/DPLIIndex3.htm#/NBbranchInward");
+		driver.navigate().refresh();
 	}
 
 	//Wait functions

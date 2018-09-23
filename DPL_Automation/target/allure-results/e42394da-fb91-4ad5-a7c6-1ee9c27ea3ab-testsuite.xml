@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1537721617425" stop="1537721691930" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : TestLASTPPass</name>
+    <title>Suite : TestLASTPPass</title>
+    <test-cases>
+        <test-case start="1537721624644" stop="1537721671990" status="passed">
+            <name>selectNBSBranchInward</name>
+            <title>Select Branch Inword bucket and fill the data</title>
+            <description type="text">Select BranchInward and fill the data then click on submit </description>
+            <steps>
+                <step start="1537721617667" stop="1537721617675" status="passed">
+                    <name>logStep[User Selected Chrome Browser to execute]</name>
+                    <title>User Selected Chrome Browser to execute</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721621898" stop="1537721621898" status="passed">
+                    <name>logStep[chrome  Browser launched]</name>
+                    <title>chrome  Browser launched</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721624269" stop="1537721624269" status="passed">
+                    <name>logStep[Url entered : http://10.50.46.80/home/dpli/insurance/DPLIIndex3.htm#/NBbranchInward]</name>
+                    <title>Url entered : http://10.50.46.80/home/dpli/insurance/DPLIIndex3.htm#/NBbranchInward</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721626469" stop="1537721626469" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721628758" stop="1537721628758" status="passed">
+                    <name>logStep[User entered Username]</name>
+                    <title>User entered Username</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721628838" stop="1537721628838" status="passed">
+                    <name>logStep[User entered Username]</name>
+                    <title>User entered Username</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721628839" stop="1537721628839" status="passed">
+                    <name>logStep[Taking screenshot : Login Page]</name>
+                    <title>Taking screenshot : Login Page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721629223" stop="1537721629223" status="passed">
+                    <name>logStep[User entered UserName / Password ]</name>
+                    <title>User entered UserName / Password </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721629295" stop="1537721629295" status="passed">
+                    <name>logStep[User clicked on Login button]</name>
+                    <title>User clicked on Login button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721637603" stop="1537721637603" status="passed">
+                    <name>logStep[Clicked on Branch Inward from NBS ]</name>
+                    <title>Clicked on Branch Inward from NBS </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721637746" stop="1537721637746" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721637748" stop="1537721637748" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721637861" stop="1537721637861" status="passed">
+                    <name>logStep[Random Proposal number generated: MNB8677358]</name>
+                    <title>Random Proposal number generated: MNB8677358</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721639101" stop="1537721639101" status="passed">
+                    <name>logStep[Selected Agent ]</name>
+                    <title>Selected Agent </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721640436" stop="1537721640436" status="passed">
+                    <name>logStep[Selected option is : Agent Code]</name>
+                    <title>Selected option is : Agent Code</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721640566" stop="1537721640566" status="passed">
+                    <name>logStep[Enter data :70031411]</name>
+                    <title>Enter data :70031411</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721640632" stop="1537721640632" status="passed">
+                    <name>logStep[Clicked on search button]</name>
+                    <title>Clicked on search button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721643408" stop="1537721643408" status="passed">
+                    <name>logStep[Selected option is : Ms.]</name>
+                    <title>Selected option is : Ms.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721643548" stop="1537721643548" status="passed">
+                    <name>logStep[Enter data :Bhavishya]</name>
+                    <title>Enter data :Bhavishya</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721643937" stop="1537721643937" status="passed">
+                    <name>logStep[Selected option is : Telangana]</name>
+                    <title>Selected option is : Telangana</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721645545" stop="1537721645545" status="passed">
+                    <name>logStep[Enter data :9290851186]</name>
+                    <title>Enter data :9290851186</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721645718" stop="1537721645718" status="passed">
+                    <name>logStep[Selected option is : Adhaar card]</name>
+                    <title>Selected option is : Adhaar card</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721650526" stop="1537721650526" status="passed">
+                    <name>logStep[Selected option is : Non Smoker]</name>
+                    <title>Selected option is : Non Smoker</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721650715" stop="1537721650715" status="passed">
+                    <name>logStep[Selected option is : Female]</name>
+                    <title>Selected option is : Female</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721651082" stop="1537721651082" status="passed">
+                    <name>logStep[Selected option is : Smart Assure]</name>
+                    <title>Selected option is : Smart Assure</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721651317" stop="1537721651317" status="passed">
+                    <name>logStep[Selected option is : 10]</name>
+                    <title>Selected option is : 10</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721651568" stop="1537721651568" status="passed">
+                    <name>logStep[Selected option is : 5]</name>
+                    <title>Selected option is : 5</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721651811" stop="1537721651811" status="passed">
+                    <name>logStep[Selected option is : Annually]</name>
+                    <title>Selected option is : Annually</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721652001" stop="1537721652001" status="passed">
+                    <name>logStep[Selected option is : Sum Assured]</name>
+                    <title>Selected option is : Sum Assured</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721652118" stop="1537721652118" status="passed">
+                    <name>logStep[Enter data :100,000]</name>
+                    <title>Enter data :100,000</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721656318" stop="1537721656318" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721656320" stop="1537721656320" status="passed">
+                    <name>logStep[Clicked on GetQuote button]</name>
+                    <title>Clicked on GetQuote button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721656323" stop="1537721656323" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721656985" stop="1537721656985" status="passed">
+                    <name>logStep[Quote details saved successfully]</name>
+                    <title>Quote details saved successfully</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721657129" stop="1537721657129" status="passed">
+                    <name>logStep[Entered text is :18,945]</name>
+                    <title>Entered text is :18,945</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721659317" stop="1537721659317" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721659318" stop="1537721659318" status="passed">
+                    <name>logStep[Clicked on GetRequirement button]</name>
+                    <title>Clicked on GetRequirement button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721665711" stop="1537721665711" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721665712" stop="1537721665712" status="passed">
+                    <name>logStep[Clicked on InwardComplete button]</name>
+                    <title>Clicked on InwardComplete button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721665713" stop="1537721665713" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721668151" stop="1537721668151" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721671557" stop="1537721671557" status="passed">
+                    <name>logStep[Click on Next button ]</name>
+                    <title>Click on Next button </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721671560" stop="1537721671560" status="passed">
+                    <name>logStep[clicked on Yes proceed button]</name>
+                    <title>clicked on Yes proceed button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721671616" stop="1537721671616" status="passed">
+                    <name>logStep[message : -- Inward for Proposal No. MNB8677358 is in processing, Please check after some time]</name>
+                    <title>message : -- Inward for Proposal No. MNB8677358 is in processing, Please check after some time</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721671617" stop="1537721671617" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1537721671985" stop="1537721671985" status="passed">
+                    <name>logStep[Clicked on OK button]</name>
+                    <title>Clicked on OK button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="Screenshot" source="63fb4e65-6629-4154-a40b-c1c9558189c6-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="eea46125-d718-4689-8a44-98cf77e0e34e-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="b2aba944-a27e-4697-b653-bfa5e16c6c11-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="af98db2e-bc18-4d7b-985c-2525eb5ded04-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="314fa024-c136-492c-8358-8be11881e042-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="story" value="LA Traditional Case (STP Pass)"/>
+                <label name="host" value="MONO-HYD-LAP-14"/>
+                <label name="thread" value="14136@MONO-HYD-LAP-14.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1537721671997" stop="1537721690979" status="failed">
+            <name>submitReciept</name>
+            <title>Submit Receipt Bucket</title>
+            <description type="text">Search with application number in Receipt and fill requierd data and submit </description>
+            <failure>
+                <message>AssertionError: null</message>
+                <stack-trace>java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:92)
+	at pageObjectClasses.ProposalDetails.fillInstrumentDetails(ProposalDetails.java:191)
+	at Cosmos_Testcases.LATraditionalstppass.submitReciept(LATraditionalstppass.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</stack-trace>
+            </failure>
+            <steps>
+                <step start="1537721674417" stop="1537721674417" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                </step>
+                <step start="1537721674698" stop="1537721674698" status="passed">
+                    <name>logStep[Clicked on inbox button for selecting : inBox]</name>
+                    <title>Clicked on inbox button for selecting : inBox</title>
+                </step>
+                <step start="1537721676864" stop="1537721676864" status="passed">
+                    <name>logStep[clicked on : Receipt]</name>
+                    <title>clicked on : Receipt</title>
+                </step>
+                <step start="1537721676865" stop="1537721676865" status="passed">
+                    <name>logStep[Taking screenshot]</name>
+                    <title>Taking screenshot</title>
+                </step>
+                <step start="1537721683711" stop="1537721683711" status="passed">
+                    <name>logStep[Entered text is :MNB8677358]</name>
+                    <title>Entered text is :MNB8677358</title>
+                </step>
+                <step start="1537721685977" stop="1537721685977" status="passed">
+                    <name>logStep[Clicked on Proposal numMNB8677358]</name>
+                    <title>Clicked on Proposal numMNB8677358</title>
+                </step>
+                <step start="1537721688363" stop="1537721688363" status="passed">
+                    <name>logStep[Selected Branch is : HO]</name>
+                    <title>Selected Branch is : HO</title>
+                </step>
+                <step start="1537721690668" stop="1537721690668" status="passed">
+                    <name>logStep[Selected option is : HO - SBI]</name>
+                    <title>Selected option is : HO - SBI</title>
+                </step>
+                <step start="1537721690762" stop="1537721690762" status="passed">
+                    <name>logStep[Clicked on AddInstrument button]</name>
+                    <title>Clicked on AddInstrument button</title>
+                </step>
+                <step start="1537721690846" stop="1537721690846" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                </step>
+                <step start="1537721690847" stop="1537721690847" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                </step>
+                <step start="1537721690848" stop="1537721690848" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                </step>
+                <step start="1537721690849" stop="1537721690850" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                </step>
+                <step start="1537721690851" stop="1537721690851" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                </step>
+                <step start="1537721690852" stop="1537721690852" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                </step>
+                <step start="1537721690853" stop="1537721690853" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                </step>
+                <step start="1537721690855" stop="1537721690855" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                </step>
+                <step start="1537721690856" stop="1537721690856" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                </step>
+                <step start="1537721690858" stop="1537721690858" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                </step>
+                <step start="1537721690860" stop="1537721690860" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                </step>
+                <step start="1537721690861" stop="1537721690861" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                </step>
+                <step start="1537721690862" stop="1537721690862" status="passed">
+                    <name>logStep[Sheet Name not matched with test data]</name>
+                    <title>Sheet Name not matched with test data</title>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="Screenshot" source="526efd3c-5915-4044-a3e9-d3e1bfeb1356-attachment.png" type="image/png"/>
+                <attachment title="Screenshot" source="32feda78-6417-4528-a006-cf864d355876-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="story" value="LA Traditional Case (STP Pass)"/>
+                <label name="host" value="MONO-HYD-LAP-14"/>
+                <label name="thread" value="14136@MONO-HYD-LAP-14.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1537721690989" stop="1537721690989" status="canceled">
+            <name>pendingBranchScrutny</name>
+            <title>Pending brach scrytny bucket</title>
+            <description type="text">Search with application number and Submit</description>
+            <failure>
+                <message>: Skipped due to dependency on other skipped or failed test methods</message>
+                <stack-trace>ru.yandex.qatools.allure.testng.AllureTestListener$1: Skipped due to dependency on other skipped or failed test methods
+	at ru.yandex.qatools.allure.testng.AllureTestListener.fireTestCaseCancel(AllureTestListener.java:366)
+	at ru.yandex.qatools.allure.testng.AllureTestListener.onTestSkipped(AllureTestListener.java:181)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:61)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1062)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:887)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="story" value="LA Traditional Case (STP Pass)"/>
+                <label name="host" value="MONO-HYD-LAP-14"/>
+                <label name="thread" value="14136@MONO-HYD-LAP-14.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1537721690989" stop="1537721690989" status="canceled">
+            <name>selectDispatch</name>
+            <title>DispatchMode bucket</title>
+            <description type="text">Search with application number and submit</description>
+            <failure>
+                <message>: Skipped due to dependency on other skipped or failed test methods</message>
+                <stack-trace>ru.yandex.qatools.allure.testng.AllureTestListener$1: Skipped due to dependency on other skipped or failed test methods
+	at ru.yandex.qatools.allure.testng.AllureTestListener.fireTestCaseCancel(AllureTestListener.java:366)
+	at ru.yandex.qatools.allure.testng.AllureTestListener.onTestSkipped(AllureTestListener.java:181)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:61)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1062)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:887)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="story" value="LA Traditional Case (STP Pass)"/>
+                <label name="host" value="MONO-HYD-LAP-14"/>
+                <label name="thread" value="14136@MONO-HYD-LAP-14.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1537721690989" stop="1537721690989" status="canceled">
+            <name>scanAndIndex</name>
+            <title>Scan and Index bucket</title>
+            <description type="text">Search with application number and upload requiered documents and submit</description>
+            <failure>
+                <message>: Skipped due to dependency on other skipped or failed test methods</message>
+                <stack-trace>ru.yandex.qatools.allure.testng.AllureTestListener$1: Skipped due to dependency on other skipped or failed test methods
+	at ru.yandex.qatools.allure.testng.AllureTestListener.fireTestCaseCancel(AllureTestListener.java:366)
+	at ru.yandex.qatools.allure.testng.AllureTestListener.onTestSkipped(AllureTestListener.java:181)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:61)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1062)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:887)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="story" value="LA Traditional Case (STP Pass)"/>
+                <label name="host" value="MONO-HYD-LAP-14"/>
+                <label name="thread" value="14136@MONO-HYD-LAP-14.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1537721690989" stop="1537721690989" status="canceled">
+            <name>copsInwardBucket</name>
+            <title>Cops inward bucket</title>
+            <description type="text">Search with application number and submit</description>
+            <failure>
+                <message>: Skipped due to dependency on other skipped or failed test methods</message>
+                <stack-trace>ru.yandex.qatools.allure.testng.AllureTestListener$1: Skipped due to dependency on other skipped or failed test methods
+	at ru.yandex.qatools.allure.testng.AllureTestListener.fireTestCaseCancel(AllureTestListener.java:366)
+	at ru.yandex.qatools.allure.testng.AllureTestListener.onTestSkipped(AllureTestListener.java:181)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:61)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1062)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:887)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="story" value="LA Traditional Case (STP Pass)"/>
+                <label name="host" value="MONO-HYD-LAP-14"/>
+                <label name="thread" value="14136@MONO-HYD-LAP-14.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1537721690997" stop="1537721690997" status="canceled">
+            <name>nbsDataEntry</name>
+            <title>NBS data entry bucket</title>
+            <description type="text">Search with application number and enter all the requiered data and submit</description>
+            <failure>
+                <message>: Skipped due to dependency on other skipped or failed test methods</message>
+                <stack-trace>ru.yandex.qatools.allure.testng.AllureTestListener$1: Skipped due to dependency on other skipped or failed test methods
+	at ru.yandex.qatools.allure.testng.AllureTestListener.fireTestCaseCancel(AllureTestListener.java:366)
+	at ru.yandex.qatools.allure.testng.AllureTestListener.onTestSkipped(AllureTestListener.java:181)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:61)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1062)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:887)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="story" value="LA Traditional Case (STP Pass)"/>
+                <label name="host" value="MONO-HYD-LAP-14"/>
+                <label name="thread" value="14136@MONO-HYD-LAP-14.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1537721690999" stop="1537721690999" status="canceled">
+            <name>copsQc</name>
+            <title>CopsQC bucket</title>
+            <description type="text">Search with application number and Verify all the NBS data entered correctly </description>
+            <failure>
+                <message>: Skipped due to dependency on other skipped or failed test methods</message>
+                <stack-trace>ru.yandex.qatools.allure.testng.AllureTestListener$1: Skipped due to dependency on other skipped or failed test methods
+	at ru.yandex.qatools.allure.testng.AllureTestListener.fireTestCaseCancel(AllureTestListener.java:366)
+	at ru.yandex.qatools.allure.testng.AllureTestListener.onTestSkipped(AllureTestListener.java:181)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:61)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1062)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:887)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="story" value="LA Traditional Case (STP Pass)"/>
+                <label name="host" value="MONO-HYD-LAP-14"/>
+                <label name="thread" value="14136@MONO-HYD-LAP-14.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1537721690999" stop="1537721690999" status="canceled">
+            <name>applicationTracker</name>
+            <title>Application Tracker bucket </title>
+            <description type="text">Search with application number and wait for realization </description>
+            <failure>
+                <message>: Skipped due to dependency on other skipped or failed test methods</message>
+                <stack-trace>ru.yandex.qatools.allure.testng.AllureTestListener$1: Skipped due to dependency on other skipped or failed test methods
+	at ru.yandex.qatools.allure.testng.AllureTestListener.fireTestCaseCancel(AllureTestListener.java:366)
+	at ru.yandex.qatools.allure.testng.AllureTestListener.onTestSkipped(AllureTestListener.java:181)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:61)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1062)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:887)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="story" value="LA Traditional Case (STP Pass)"/>
+                <label name="host" value="MONO-HYD-LAP-14"/>
+                <label name="thread" value="14136@MONO-HYD-LAP-14.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1537721690999" stop="1537721690999" status="canceled">
+            <name>proposalEnquiry</name>
+            <title>Proposal enquiry and Receipt details bucket</title>
+            <description type="text">Search with application number and get the receipt details with receipt No. for realization</description>
+            <failure>
+                <message>: Skipped due to dependency on other skipped or failed test methods</message>
+                <stack-trace>ru.yandex.qatools.allure.testng.AllureTestListener$1: Skipped due to dependency on other skipped or failed test methods
+	at ru.yandex.qatools.allure.testng.AllureTestListener.fireTestCaseCancel(AllureTestListener.java:366)
+	at ru.yandex.qatools.allure.testng.AllureTestListener.onTestSkipped(AllureTestListener.java:181)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:61)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1388)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1062)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:887)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="story" value="LA Traditional Case (STP Pass)"/>
+                <label name="host" value="MONO-HYD-LAP-14"/>
+                <label name="thread" value="14136@MONO-HYD-LAP-14.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
