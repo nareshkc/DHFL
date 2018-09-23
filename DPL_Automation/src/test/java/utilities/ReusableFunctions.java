@@ -146,10 +146,11 @@ public class ReusableFunctions extends DriverClass{
 			logger.info("Enter data :" +value);
 			logStep("Enter data :" +value);
 		}else {
+			ele.click();
 			logger.info(ele.getText()+"data shoul not be empty");
 			logStep(ele.getText()+"data shoul not be empty");
 			attachScreen(driver);
-			Assert.fail(ele.getText()+"data shoul not be empty");
+			Assert.fail(ReadexcelFile.readdata[0][columnnum]+"data shoul not be empty");
 		}
 	}
 
