@@ -69,6 +69,7 @@ public void launching(String browserName) {
 @BeforeTest
 public void beforeTest() throws Exception
 {
+	System.out.println("---LA Cosmos TO IL Test case Started ---");
 	testcaseName="LA Cosmos TO IL";
 	launching("chrome");
 	LoginPage.lcountno=0;
@@ -259,6 +260,7 @@ public void proposalEnquiry()throws Exception
 @AfterTest
 public void aftermethod()
 {
+	System.out.println("---LA Cosmos TO IL Test case Ended ---");
 	driver.quit();
 }
 }

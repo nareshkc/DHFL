@@ -67,6 +67,7 @@ public class LATraditionalstppass extends ReusableFunctions{
 	@BeforeTest
 	public void beforeTest() throws Exception
 	{
+		System.out.println("---LA Traditional Case (STP Pass) Test case Started ---");
 		testcaseName="LA Traditional Case (STP Pass)";
 		launching("chrome");
 		LoginPage.lcountno=0;
@@ -226,6 +227,7 @@ public class LATraditionalstppass extends ReusableFunctions{
 	public void aftermethod()
 	{
 		driver.quit();
+		logger.info("---LA Traditional Case (STP Pass) Test case Eneded ---");
 	}
 
 
