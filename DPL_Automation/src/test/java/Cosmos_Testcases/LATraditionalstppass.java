@@ -186,7 +186,7 @@ public class LATraditionalstppass extends ReusableFunctions{
 			launching("chrome");
 			loginPage.login();
 			//homePage.logOutUser();
-			driver.navigate().refresh();
+			//driver.navigate().refresh();
 			homePage.clickOnOption("inBox");
 			copsQcObj.gotoCopsQcBucket();
 			copsQcObj.nbsTaskSearch(randonProNumber);
