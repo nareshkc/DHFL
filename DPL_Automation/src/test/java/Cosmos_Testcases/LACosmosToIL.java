@@ -202,7 +202,7 @@ public void copsQc() throws Exception {
 }
 
 
-@Stories("LA Cosmos TO IL")
+/*@Stories("LA Cosmos TO IL")
 @Title("Call Verification bucket ")
 @Description("Search with application number and wait for Call verification ")
 @Test(priority=9 , enabled = false)
@@ -210,7 +210,7 @@ public void callVerificationBucket() throws Exception {
 		callVerfication.clickon("Call Verfication");
 		callVerfication.searchwithproposalNo(randonProNumber);
 	
-}
+}*/
 
 
 @Stories("LA Cosmos TO IL")
