@@ -40,6 +40,7 @@ public class ReusableFunctions extends DriverClass{
 	public int countno;
 	//public static int lcountno;
 	public static String testcaseName;
+	public static String testDataPath;
 	Actions a1;
 	//Function for Print the steps in allure report
 	@Step("{0}")
@@ -175,6 +176,7 @@ public class ReusableFunctions extends DriverClass{
 	//Launch browser based on select 
 	public static void launchBrowser(String browserName) {
 		path = System.getProperty("user.dir");
+		testDataPath = System.getProperty("user.home");
 		if(browserName.equalsIgnoreCase("chrome")) {
 			System.setProperty("webdriver.chrome.driver", path+"\\lib\\chromedriver.exe");
 			logStep("User Selected Chrome Browser to execute");

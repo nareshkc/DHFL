@@ -71,6 +71,7 @@ public class LATraditionalstppass extends ReusableFunctions{
 		testcaseName="LA Traditional Case (STP Pass)";
 		launching("chrome");
 		LoginPage.lcountno=0;
+		
 
 	}
 	
@@ -185,6 +186,7 @@ public class LATraditionalstppass extends ReusableFunctions{
 			launching("chrome");
 			loginPage.login();
 			//homePage.logOutUser();
+			driver.navigate().refresh();
 			homePage.clickOnOption("inBox");
 			copsQcObj.gotoCopsQcBucket();
 			copsQcObj.nbsTaskSearch(randonProNumber);

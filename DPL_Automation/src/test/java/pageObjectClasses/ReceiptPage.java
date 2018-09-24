@@ -42,7 +42,9 @@ public class ReceiptPage extends ReusableFunctions{
 			driver.findElement(By.linkText(ProposalNo)).click();
 			logStep("Clicked on Proposal num" + ProposalNo );
 		}catch(Exception e){
-			System.out.println("ProposalNo - "+ProposalNo+ " not available in the list may be it is cliamed ");
+			logger.info("ProposalNo - "+ProposalNo+ " not available in the list may be it is cliamed ");
+			logStep("ProposalNo - "+ProposalNo+ " not available in the list may be it is cliamed ");
+			attachScreen(driver);
 			Assert.fail("ProposalNo - "+ProposalNo+ " not available in the list may be it is cliamed");
 		}
 	}

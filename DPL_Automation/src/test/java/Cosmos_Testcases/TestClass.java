@@ -6,7 +6,8 @@ public class TestClass {
 	
 	@Test
 	public void f() {
-		System.out.println("heloo");
+		String demo = System.getProperty("user.home");
+		System.out.println("demo is :"+demo);
 		
 	
 	}

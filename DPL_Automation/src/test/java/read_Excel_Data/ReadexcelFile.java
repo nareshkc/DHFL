@@ -25,7 +25,8 @@ public class ReadexcelFile extends ReusableFunctions {
 	//Reading Excel File and get the data
 	public static String[][] excel_Files(String sheetname) throws Exception {
 		try {
-			String FilePath ="D:\\Bhavishya\\POC\\Dpl_code _given _by sateesh\\DPL_Automation\\lib\\test_data.xlsx";
+			String FilePath;
+				FilePath =testDataPath+"\\Desktop\\DHFLtestdata\\test_data.xlsx";
 			FileInputStream finputStream = new FileInputStream(new File(FilePath));
 
 			workbook = new XSSFWorkbook(finputStream);
@@ -50,7 +51,7 @@ public class ReadexcelFile extends ReusableFunctions {
 				}
 			}
 		}catch(Exception e) {
-          System.out.println(e.getMessage());
+			System.out.println(e.getMessage());
 		}
 
 		return excelData;
@@ -72,6 +73,6 @@ public class ReadexcelFile extends ReusableFunctions {
 	}
 
 }
-	
-	
+
+
 
