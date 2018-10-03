@@ -5,7 +5,7 @@
  
   <test thread-count="5" name="TestLATOIL">
     <classes>
-      <class name="Cosmos_Testcases.LACosmosToIL"/>
+      <class name="Cosmos_Testcases.LATraditionalstppass"/>
     </classes>
   </test> 
  
